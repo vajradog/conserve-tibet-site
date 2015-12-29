@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Conserve Tibet
 locale: en_US
-description: Describe your website here.
+description: At-risk audios and videos that have historical importance to the Tibetan People.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
